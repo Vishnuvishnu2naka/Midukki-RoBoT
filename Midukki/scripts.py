@@ -220,13 +220,7 @@ Check Your Spelling
 """
 
 IMDB_TEMPLATE_TXT = """
-<b>Hey 👋🏻 {message.from_user.mention} 😍</b>
-
-<b><i>〽️ Title : {search}</b>
-
-<b>📣 Your Files is Ready Now</b></i>
-
-<b><i>🅒 2022 | 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 : ᴡᴀᴛᴄʜ ᴍᴏᴠɪᴇꜱ</b></i>
+Hey Your File is Ready 
 """
 
 WELCOME_TXT = """
