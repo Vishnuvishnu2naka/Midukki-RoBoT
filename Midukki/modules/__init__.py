@@ -260,7 +260,7 @@ class vars(object):
             button()
                 (
                     "➕️ Add Me To Your Group ➕️",
-                        url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
+                        url=f"http://t.me/Evamaria_V_Bot?startgroup=true"
                 )
         ],
         [
