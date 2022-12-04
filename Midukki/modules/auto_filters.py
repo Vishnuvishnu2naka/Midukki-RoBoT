@@ -806,7 +806,7 @@ async def auto_filters(client: Midukki_RoboT, message: message()):
                     [
                         button()
                             (
-                                "🤖 Check My Pm 🤖",
+                                "😗 ᑕᕼEᗩᑕK Iᑎ ᗰY ᑭᗰ 😊",
                                     url=f"https://telegram.dog/{Bots.BOT_USERNAME}"
                             )
                     ]
@@ -843,7 +843,7 @@ async def auto_filters(client: Midukki_RoboT, message: message()):
                     [
                         button()
                             (
-                                "🤖 Check My Pm 🤖",
+                                "😗 ᑕᕼEᗩᑕK Iᑎ ᗰY ᑭᗰ 😊",
                                     url=f"https://telegram.dog/{Bots.BOT_USERNAME}"
                             )
                     ]
@@ -900,7 +900,7 @@ async def next_page_(message):
                 [
                     button()
                         (
-                            "🤖 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🤖",
+                            "😗 ᑕᕼEᗩᑕK Iᑎ ᗰY ᑭᗰ 😊",
                                 url=f"https://telegram.dog/{temp.Bot_Username}"
                         )
                 ]
@@ -947,7 +947,7 @@ async def next_page_(message):
                 [
                     button()
                         (
-                            "🤖 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🤖",
+                            "😗 ᑕᕼEᗩᑕK Iᑎ ᗰY ᑭᗰ 😊",
                                 url=f"https://telegram.dog/{temp.Bot_Username}"
                         )
                 ]
@@ -1000,7 +1000,7 @@ async def back_page_(message):
                 [
                     button()
                         (
-                            "🤖 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🤖",
+                            "😗 ᑕᕼEᗩᑕK Iᑎ ᗰY ᑭᗰ 😊",
                                 url=f"https://telegram.dog/{temp.Bot_Username}"
                         )
                 ]
@@ -1049,7 +1049,7 @@ async def back_page_(message):
                 [
                     button()
                         (
-                            "🤖 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🤖",
+                            "😗 ᑕᕼEᗩᑕK Iᑎ ᗰY ᑭᗰ 😊",
                                 url=f"https://telegram.dog/{temp.Bot_Username}"
                         )
                 ]
