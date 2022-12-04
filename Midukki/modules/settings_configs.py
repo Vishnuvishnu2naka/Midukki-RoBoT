@@ -64,19 +64,19 @@ async def settings_keyboard(settings, grp_id):
         [           
             button()
                 (
-                    'Filter Button',
+                    'ꜰɪʟᴛᴇʀ ʙᴜᴛᴛᴏɴ✨️',
                         callback_data=f'settings#buttons#{settings["buttons"]}#{grp_id}'
                 ),             
             button()
                 (
-                    'Single' if settings["buttons"] else 'Double',
+                    'ꜱɪɴɢʟᴇ ✨️' if settings["buttons"] else 'Double',
                         callback_data=f'settings#buttons#{settings["buttons"]}#{grp_id}'
                 )              
         ],
         [  
             button()
                 (
-                    'AutoFilter ',
+                    'ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ 🐓 ',
                         callback_data=f'settings#autofilter#{settings["autofilter"]}#{grp_id}'
                 ),             
             button()
