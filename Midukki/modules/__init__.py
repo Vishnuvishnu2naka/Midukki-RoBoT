@@ -266,12 +266,12 @@ class vars(object):
         [
             button()
                 (
-                    "💥 ᴡᴏʀᴋɪɴɢ ɢʀᴏᴜᴩ 💥",
+                    "💥 ɢʀᴏᴜᴩ 💥",
                         url="https://t.me/WM_MoviesMM"
                 ),
             button()
                 (
-                    "💫 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ💫",
+                    "📻 ᴄʜᴀɴɴᴇʟ 📻",
                         url="https://t.me/+KZwEebEQjDEwNmQ1"
                 )
         ],
@@ -345,7 +345,7 @@ class vars(object):
         [
             button()
                 (
-                    "💥 ᴡᴏʀᴋɪɴɢ ɢʀᴏᴜᴩ 💥",
+                    "💥 ʀᴏᴜᴩ 💥",
                         url="https://t.me/+KZwEebEQjDEwNmQ1"
                 ),
             button()
