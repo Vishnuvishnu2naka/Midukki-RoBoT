@@ -1,17 +1,17 @@
 START_TXT = """
 Hello 👋 {mention} 
+𝖭𝗂𝖼𝖾 𝗍𝗈 𝗆𝖾𝖾𝗍 𝗒𝗈𝗎 🙌
+𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
+i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗌 𝖺𝖽𝗆𝗂n
 
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
-
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
+Join <b><a href=http://t.me/MOVIE_WM_bot>my news channel</a></b> to get information on all the latest updates
 """
 
 HELP_TXT = """
 👋 <b>Hello {mention}!</b>
 
-I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules          
+I❤️ Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly Use Them. Use The Buttons Below To Navigate Through All Of The Modules 💥         
 
 📚 <u><b>HelpFull Commands</b></u>:
 
@@ -27,18 +27,19 @@ ABOUT_TXT = """
 [{name}](t.me/{username}) Was created on September 4, 2022
 We are currently developing this bot, using only the Pyrogram library.
 
-➾ Developers : Muhammed
-➾ Language : Python3
-➾ Framework : Pyrogram
-➾ Database : Mongo db
+🕵‍♂ Developer : [ᴠɪꜱʜɴᴜ_ᴀ](t.me/vis_hnu_bot)
+📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+
+🖥 Language : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+
+🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 """
 
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
-Paytm : [Click Here](https://p.paytm.me/xCTH/7yzmtgie)
-  or UPI `motech8129@okaxis`
+Dev : [ᴠɪꜱʜɴᴜ_ᴀ](t.me/vis_hnu_bot)
+`
 """
 
 STATUS_TXT = """
@@ -53,12 +54,12 @@ STATUS_TXT = """
 ◉ Free Space: `{g}`
 
 🗃️ __--Database Status--__
-◉ Tota Files: `{h}`
-◉ Tota Users: `{i}`
-◉ Tota Chats: `{j}`
-◉ Used Storage: `{k}` 
-◉ Free Storage: `{l}`
-◉ Total Storage: `{m}` 
+★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: `{h}`
+★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: `{i}`
+★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: `{j}`
+★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: `{k}` 
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: `{l}`
+★ 𝚃𝙾𝚃𝙰𝙻 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: `{m}` 
 """
 
 AUTO_TXT = """
@@ -219,11 +220,17 @@ Check Your Spelling
 """
 
 IMDB_TEMPLATE_TXT = """
-🙋‍♂️ Hey {mention} Your Requested {query} is ready 👍
+<b>Hey 👋🏻 {message.from_user.mention} 😍</b>
+
+<b><i>〽️ Title : {search}</b>
+
+<b>📣 Your Files is Ready Now</b></i>
+
+<b><i>🅒 2022 | 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 : ᴡᴀᴛᴄʜ ᴍᴏᴠɪᴇꜱ</b></i>
 """
 
 WELCOME_TXT = """
-Hai {mention}
+❤️Hai {mention}
 
 Welcome To {chat} ❣️
 """
